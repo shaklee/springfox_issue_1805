@@ -1,6 +1,4 @@
-# springfox issue 1805
-
-To replicate:
+# To replicate:
 
     gradle jettyRun
     
